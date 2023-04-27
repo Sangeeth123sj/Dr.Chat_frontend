@@ -11,7 +11,7 @@
       :class="{ dark: isAboutPage }"
     >
       <div class="container">
-        <router-link to="/" class="route-white">Health Snap</router-link>
+        <router-link to="/" class="route-white">Dr. Chat</router-link>
         <a
           class="navbar-toggler"
           type="button"
@@ -82,7 +82,7 @@
 <br/><br/>
 
 
-<h1>HealthSnap   <img src="/src/assets/ms_icon.png" class="align-logo" width="60" height="60" /></h1>
+<h1>Dr. Chat   <img src="/src/assets/ms_icon.png" class="align-logo" width="60" height="60" /></h1>
 
  <div>
     <router-view></router-view>
@@ -109,7 +109,7 @@
     <hr>
     <div class="row">
       <div class="col-md-12">
-        <p>&copy; 2023 HealthSnap. All Rights Reserved.</p>
+        <p>&copy; 2023 Dr. Chat. All Rights Reserved.</p>
       </div>
     </div>
   </div>

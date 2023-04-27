@@ -7,6 +7,7 @@
         <h2>Basic</h2>
         <p class="price">$19.99/month</p>
         <ul>
+          <li>Dr. Chat</li>
           <li>Access to AI-powered medical summary generator</li>
           <li>Unlimited medical summaries</li>
           <li>Basic support</li>
@@ -17,6 +18,7 @@
         <h2>Premium</h2>
         <p class="price">$49.99/month</p>
         <ul>
+          <li>Dr. Chat</li>
           <li>Access to AI-powered medical summary generator</li>
           <li>Unlimited medical summaries</li>
           <li>Priority support</li>
